@@ -1,0 +1,30 @@
+WMining = {
+    CB = {
+        CAN_MINE      = 'w_mining:cb:canMine',
+        FINISH_MINE   = 'w_mining:cb:finishMine',
+        GET_CAMP      = 'w_mining:cb:getCamp',
+        SMELT         = 'w_mining:cb:smelt',
+        CRUSH_ROCK    = 'w_mining:cb:crushRock',
+        WASH_GOLD     = 'w_mining:cb:washGold',
+        SELL_ITEM     = 'w_mining:cb:sellItem',
+        SELL_ALL      = 'w_mining:cb:sellAll',
+        BUY_SUPPLY    = 'w_mining:cb:buySupply',
+    },
+    MENU = {
+        CAMP_MAIN     = 'w_mining:menu:campMain',
+        SMELT         = 'w_mining:menu:smelt',
+        SELL          = 'w_mining:menu:sell',
+        SHOP          = 'w_mining:menu:shop',
+    },
+    EV = {
+        OPEN_SMELT    = 'w_mining:ev:openSmelt',
+        DO_SMELT      = 'w_mining:ev:doSmelt',
+        DO_CRUSH      = 'w_mining:ev:doCrush',
+        DO_WASH       = 'w_mining:ev:doWash',
+        OPEN_SELL     = 'w_mining:ev:openSell',
+        SELL_ONE      = 'w_mining:ev:sellOne',
+        SELL_ALL      = 'w_mining:ev:sellAll',
+        OPEN_SHOP     = 'w_mining:ev:openShop',
+        BUY_ITEM      = 'w_mining:ev:buyItem',
+    },
+}
